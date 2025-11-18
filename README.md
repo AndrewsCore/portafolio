@@ -1,5 +1,8 @@
 # 💻 Portafolio / CV - Juan Andrés Lucero Ortega
 
+## LIVE URL Proyecto: 
+## https://andrewscore.github.io/portafolio/
+
 ## 📋 Descripción del Proyecto
 
 Este proyecto es el **Portafolio y Currículum Vitae (CV)** de **Juan Andrés Lucero Ortega**, un profesional con experiencia en **Diseño y Programación Multimedia**. Su objetivo es presentar de manera digital y estructurada su experiencia laboral, habilidades técnicas, formación académica y proyectos clave en las áreas de diseño web y gráfico.
@@ -35,13 +38,14 @@ La estructura de archivos sigue un patrón común y organizado para proyectos de
 portafolio/
 ├── index.html
 ├── README.md
-├── favicon.ico
 └── assets/
     ├── css/
     │   └── style.css
-    ├── js/
-    │   └── main.js
     └── img/
-        └── [Imágenes del portafolio y gráficos]
-```mermaid
+        └── cuppon-imagen.jpg
+        └── curriculum-imagen.jpg
+        └── decoplantas-imagen.jpg
+        └── iguana-page-imagen.jpg
+        └── web-design-background.gif
+        
 
