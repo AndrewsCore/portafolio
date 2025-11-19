@@ -1,7 +1,7 @@
 # 💻 Portafolio / CV - Juan Andrés Lucero Ortega
 
 ## LIVE URL Proyecto: 
- https://andrewscore.github.io/portafolio/
+ https://andrewscore.github.io/Prueba-Desarrollo-Portafolio/
 
 ## 📋 Descripción del Proyecto
 
