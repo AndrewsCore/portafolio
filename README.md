@@ -49,7 +49,7 @@ portafolio/
         └── iguana-page-imagen.jpg
         └── web-design-background.gif
 ```        
-### 🖼️ imagenes e folks y pull request a proyectos de compañeros
+### 🖼️ imagenes de folks y pull request a proyectos de compañeros
 
 
 ![folk-proyecto-ariadnajara](https://github.com/user-attachments/assets/d48cb832-b800-489f-acd3-9260548106ce)
