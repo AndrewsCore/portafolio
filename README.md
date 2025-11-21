@@ -5,7 +5,7 @@
 
 ## 📋 Descripción del Proyecto
 
-Este proyecto es el **Portafolio y Currículum Vitae (CV)** de **Juan Andrés Lucero Ortega**, un profesional con experiencia en **Diseño y Programación Multimedia**. Su objetivo es presentar de manera digital y estructurada su experiencia laboral, habilidades técnicas, formación académica y proyectos clave en las áreas de diseño web y gráfico.
+Este proyecto es un **Portafolio y Currículum Vitae (CV)**. El objetivo es presentar de manera digital y estructurada mi experiencia laboral, habilidades técnicas, formación académica y proyectos clave en las áreas de diseño web y gráfico.
 
 El sitio está desarrollado como una **Single Page Application (SPA)** o página única, lo que permite una navegación fluida y rápida a través de sus secciones principales: Inicio, Experiencia, Habilidades, Portafolio y Contacto.
 
